@@ -5,12 +5,8 @@
  
 <div align="center"> 
 - 🔭 I’m currently working on Java. <br></br>
-- 🌱 I’m currently learning Android studio.<br></br>
-- 👯 I’m looking to collaborate on Full Stack Developer.<br></br>
-- 🤔 I’m looking for help with Javascript.<br></br>
-- 💬 Ask me about Java, Spring, PostgresSql, Javascript.<br></br>
-- ⚡ Fun fact: Dance <br></br>
-- :mailbox: concat gozdenurdogan77@gmail.com
+- 💬 Ask me about Java, Spring, PostgresSql<br></br>
+- :mailbox: gozdenurdogan77@gmail.com
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
