@@ -4,8 +4,6 @@
 </div>
  
 <div align="center"> 
-- 🔭 I’m currently working on Java. <br></br>
-- 💬 Ask me about Java, Spring, PostgresSql<br></br>
 - :mailbox: gozdenurdogan77@gmail.com
 
  <h3 align="center">Connect with me:</h3>
